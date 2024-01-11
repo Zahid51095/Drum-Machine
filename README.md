@@ -4,7 +4,7 @@
 ## Drum Machine
 * A simple Drum Machine project completed as part of the FreeCodeCamp Front End Libraries Certification.
 
-(Live Demo)[dizzy-minute.surge.sh]
+[Live Demo](http://dizzy-minute.surge.sh)
 
 
 ## Overview
