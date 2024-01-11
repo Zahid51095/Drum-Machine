@@ -1,14 +1,21 @@
-.App {
+body {
+  margin: 0;
+  height: 100vh;
   display: flex;
   justify-content: center;
-  margin-top: 33vh;
+  align-items: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .drum-pads {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
-
 
 .drum-pad {
   border: 1px solid black;
